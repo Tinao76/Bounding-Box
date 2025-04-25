@@ -1,0 +1,22 @@
+
+
+path: C:/Users/pt19100041.BIUST/Desktop/Wildlife FootprintsIII/data/  # dataset root dir
+
+
+train: train/images  # train images (relative to 'path')
+val: val/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Black Rhino_Left
+  1: Black Rhino_Right
+  2: Blue Wildebeest_Left
+  3: Blue Wildebeest_Right
+  4: Eland_Left
+  5: Eland_Right
+  6: Giraffe_Left
+  7: Giraffe_Right
+  8: White Rhino_Left
+  9: White Rhino_Right
+  10: Zebra_Left
+  11: Zebra_Right
