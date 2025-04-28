@@ -28,5 +28,9 @@ The sample visualisation of the African ungulate track quality ranking is highli
 
 **Model Training**
 
-Model training for the species classification was performed based on the three track quality rankings. The dataset was split into training, validation and testing using the ratio of 70:20:10, respectively. 
+Model training for the species classification was performed based on the three track quality rankings. The dataset was split into training, validation and testing using the ratio of 70:20:10, respectively. For training the train.py file was used.
+
+**Species Classification**
+
+The field species classification was performed using the test.py. 
 
